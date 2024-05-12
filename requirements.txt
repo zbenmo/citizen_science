@@ -1,0 +1,5 @@
+jupyterlab
+polars
+scikit-learn
+xlsx2csv
+fastexcel
