@@ -4,3 +4,6 @@ scikit-learn
 xlsx2csv
 fastexcel
 hvplot
+gymnasium
+matplotlib
+lightgbm
